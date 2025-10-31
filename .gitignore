@@ -53,5 +53,6 @@ build/
 htmlcov/
 .pytest_cache/
 
-# Random
+# Claude Code
 .claude/
+CLAUDE.md
