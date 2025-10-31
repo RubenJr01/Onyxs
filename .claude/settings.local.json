@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/ben/Desktop/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
