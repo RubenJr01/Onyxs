@@ -53,6 +53,7 @@ build/
 htmlcov/
 .pytest_cache/
 
-# Claude Code
+# Claude Code and Development Notes
 .claude/
 CLAUDE.md
+Journal building Onyxs/
